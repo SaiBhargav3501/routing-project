@@ -1,0 +1,8 @@
+.route{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.routes-list{
+    padding: 10px;
+}
